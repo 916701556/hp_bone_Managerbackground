@@ -42,7 +42,7 @@
                         </div>
                     </li>
                  <li>
-                        <a href="<%=path%>/jsp/index.jsp"><i class="fa fa-th-large"></i> <span class="nav-label">系统设置</span> <span class="fa arrow"></span></a>
+                        <a><i class="fa fa-th-large"></i> <span class="nav-label">系统设置</span> <span class="fa arrow"></span></a>
                         <ul class="nav nav-second-level">
                             <li><a href="<%=path%>/jsp/1-1.jsp">登陆日志</a></li>
                             <li><a href="<%=path%>/jsp/1-2.jsp">操作日志</a></li>

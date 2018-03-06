@@ -43,7 +43,7 @@
 							</div>
 						</li>
 						<li>
-							<a href="<%=path%>/jsp/index.jsp"><i class="fa fa-th-large"></i> <span class="nav-label">系统设置</span> <span class="fa arrow"></span></a>
+							<a><i class="fa fa-th-large"></i> <span class="nav-label">系统设置</span> <span class="fa arrow"></span></a>
 							<ul class="nav nav-second-level">
                             <li><a href="<%=path%>/jsp/1-1.jsp">登陆日志</a></li>
                             <li><a href="<%=path%>/jsp/1-2.jsp">操作日志</a></li>
@@ -129,7 +129,7 @@
 												<td>Patrick Smith</td>
 												<td >
 													<button class="btn btn-info btn-circle demo4"><i class="fa fa-times"></i></button>
-                            						<button class="btn btn-info btn-circle" type="button" onclick="window.location.href='4-1-2.html'"><i class="fa fa-pencil"></i>
+                            						<button class="btn btn-info btn-circle" type="button" onclick="window.location.href='<%=path%>/jsp/4-1-2.jsp'"><i class="fa fa-pencil"></i>
                             						</button>
 												</td>
 												

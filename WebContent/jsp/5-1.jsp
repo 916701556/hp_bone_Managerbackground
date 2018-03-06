@@ -40,14 +40,14 @@
                 <ul class="nav metismenu" id="side-menu">
                     <li class="nav-header">
                         <div class="dropdown profile-element"> 
-                        	<a href="<%=path%>/jsp/index.html"> <span><img alt="image" class="img-circle" src="<%=path%>/img/logo.png" />	</span></a>
+                        	<a href="<%=path%>/jsp/index.jsp"> <span><img alt="image" class="img-circle" src="<%=path%>/img/logo.png" />	</span></a>
                         </div>
                         <div class="logo-element">
                             HP+
                         </div>
                     </li>
                     <li >
-                        <a href="<%=path%>/jsp/index.jsp"><i class="fa fa-th-large"></i> <span class="nav-label">系统设置</span> <span class="fa arrow"></span></a>
+                        <a><i class="fa fa-th-large"></i> <span class="nav-label">系统设置</span> <span class="fa arrow"></span></a>
                         <ul class="nav nav-second-level">
                             <li><a href="<%=path%>/jsp/1-1.jsp">登陆日志</a></li>
                             <li><a href="<%=path%>/jsp/1-2.jsp">操作日志</a></li>
